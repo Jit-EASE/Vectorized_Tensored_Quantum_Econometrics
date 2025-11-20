@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # Import your engine
-from Vectorized_tensored_Quantum_Econometrics import (
+from Vectorized_Tensored_Quantum_Econometrics import (
     PolicySpace,
     VectorizedPanelModel,
     QuantumPolicySimulator,
